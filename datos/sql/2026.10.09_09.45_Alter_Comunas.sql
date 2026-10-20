@@ -1,0 +1,1 @@
+ALTER TABLE comunas MODIFY COLUMN nombre_comuna VARCHAR(60) NOT NULL;
